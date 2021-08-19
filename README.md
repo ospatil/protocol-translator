@@ -2,6 +2,8 @@
 
 A simple demonstration of *REST -> Async request-response* protocol translation in microservices.
 
+More here: <https://omkarpatil.dev/protocol-translation-in-nestjs-microservices/>
+
 ## Prerequisites
 
 1. NodeJS
